@@ -59,7 +59,7 @@
         language: "english",
         startupCap: 1, // 1-200
         startupVolume: 80, // 0-100
-        startupEmoji: false, // true or false
+        startupEmoji: true, // true or false
         cmdDeletion: true,
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         maximumAfk: 120,
