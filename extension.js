@@ -101,10 +101,10 @@
         rulesLink: null,
         themeLink: null,
         fbLink: "https://www.facebook.com/balkanmc",
-        youtubeLink: null,
+        youtubeLink: "https://www.youtube.com/channel/UCxVuKm8M5TuLnlpTRheerKA",
         website: "http://www.balkanminecraft.org",
         intervalMessages: ["Posjetite nas Balkan Minecraft server: balkanmc.craft.vg"],
-        messageInterval: 5,
+        messageInterval: 3,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
