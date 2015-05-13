@@ -103,7 +103,7 @@
         fbLink: "https://www.facebook.com/balkanmc",
         youtubeLink: null,
         website: "http://www.balkanminecraft.org",
-        intervalMessages: [],
+        intervalMessages: ["Posjetite nas Balkan Minecraft server: balkanmc.craft.vg"],
         messageInterval: 5,
         songstats: true,
         commandLiteral: "!",
