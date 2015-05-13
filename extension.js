@@ -102,7 +102,7 @@
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
-        website: null,
+        website: http://www.balkanminecraft.org
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
