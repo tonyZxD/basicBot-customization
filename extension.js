@@ -55,7 +55,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "BMCBot",
         language: "english",
         startupCap: 1, // 1-200
         startupVolume: 80, // 0-100
