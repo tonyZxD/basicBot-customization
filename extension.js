@@ -57,7 +57,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "BMCBot",
         language: "english",
-        startupCap: 1, // 1-200
+        startupCap: 200, // 1-200
         startupVolume: 90, // 0-100
         startupEmoji: true, // true or false
         cmdDeletion: true,
