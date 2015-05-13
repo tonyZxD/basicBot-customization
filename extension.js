@@ -100,7 +100,7 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null,
+        fbLink: "https://www.facebook.com/balkanmc",
         youtubeLink: null,
         website: "http://www.balkanminecraft.org",
         intervalMessages: [],
