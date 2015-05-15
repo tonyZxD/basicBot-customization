@@ -91,7 +91,7 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador","user",
-        motdEnabled: true,
+        motdEnabled: false,
         motdInterval: 5,
         motd: "Posjetite nas forum: http://www.balkanminecraft.org",
         filterChat: true,
