@@ -90,7 +90,7 @@
             ["unavailable", "The song you played was not available for some users. "]
         ],
         afkpositionCheck: 15,
-        afkRankCheck: "ambassador", "user",
+        afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
         motd: "Posjetite nas Balkan Minecraft server: balkanmc.craft.vg",
