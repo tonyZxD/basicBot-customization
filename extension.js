@@ -104,7 +104,7 @@
         youtubeLink: "https://goo.gl/dobC17",
         website: "http://www.balkanminecraft.org",
         intervalMessages: ["Posjetite nas forum: http://www.balkanminecraft.org", "Posjetite nas Balkan Minecraft server: balkanmc.craft.vg", "Posjetite nas TS3 server: balkanmc.teamspeak.vg", "Posjetite nasu FB stranicu: https://www.facebook.com/balkanmc"],
-        messageInterval: 3,
+        messageInterval: 5,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
