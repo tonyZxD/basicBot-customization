@@ -90,26 +90,26 @@
             ["unavailable", "The song you played was not available for some users. "]
         ],
         afkpositionCheck: 15,
-        afkRankCheck: "ambassador",
-        motdEnabled: true,
+        afkRankCheck: "ambassador","user",
+        motdEnabled: false,
         motdInterval: 5,
         motd: "Posjetite nas forum: http://www.balkanminecraft.org",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: null,
+        rulesLink: "http://goo.gl/eL2WSi",
         themeLink: null,
         fbLink: "https://www.facebook.com/balkanmc",
-        youtubeLink: "https://www.youtube.com/channel/UCxVuKm8M5TuLnlpTRheerKA",
+        youtubeLink: "https://goo.gl/dobC17",
         website: "http://www.balkanminecraft.org",
-        intervalMessages: ["Posjetite nas Balkan Minecraft server: balkanmc.craft.vg"],
+        intervalMessages: ["Posjetite nas Balkan Minecraft server: balkanmc.craft.vg", "Posjetite nas TS3 server: balkanmc.teamspeak.vg", "Posjetite nasu FB stranicu: https://www.facebook.com/balkanmc"],
         messageInterval: 3,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
-            NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
-            OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleOPlist.json"
+            NSFW: "https://rawgit.com/tonyZxD/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
+            OP: "https://rawgit.com/tonyZxD/basicBot-customization/master/blacklists/ExampleOPlist.json"
         }
     }));
 
