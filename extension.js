@@ -99,7 +99,7 @@
         welcome: true,
         opLink: null,
         rulesLink: "http://goo.gl/eL2WSi",
-        themeLink: null,
+        themeLink: "https://code.radiant.dj/require/bg/2k14minecraft.jpg",
         fbLink: "https://www.facebook.com/balkanmc",
         youtubeLink: "https://goo.gl/dobC17",
         website: "http://www.balkanminecraft.org",
